@@ -5,7 +5,8 @@ An exstension of the game Rock, Paper, Scissors.
 
 Play a CPU in a 5 game series and then unlimated games.
 
-RULES
+
+Rules
 
     Scissors cuts Paper
     Paper covers Rock
